@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: f07a7b80b000c724bbff6644334e7fae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 457
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7f0fa588baa724186ffec9a8fc126f
+      internalID: -2060348554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 446
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b20b576ec9774088327e787d0ada9
+      internalID: -387763488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 444
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6c907850b7f84ab0a0153bd2095cd
+      internalID: 1102033835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 444
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664eb269d220ea44d9aefb3710dffb0d
+      internalID: -1636785421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 446
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5f6a5f8bb74140affd5c611eaffe4
+      internalID: 1427354605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 446
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a01ae6d8de3e4981846a42862f8ee
+      internalID: -1954603366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 446
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9950d4b397230a841a7cdc5cdf7bacc9
+      internalID: 528348596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 444
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d2ba9dbd6f5b41b1e04d6c4ee3d83
+      internalID: 918617037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 446
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dabc6fc44e392439f82402b550c00c
+      internalID: -1771154351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 446
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a4ee67d2bfafc499221c6512104cc0
+      internalID: 2034065055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 446
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ad5122858e19c4ea550623e56ea5f9
+      internalID: -436961974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 446
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b26990317a7e9542b3dddcdade70cf6
+      internalID: 309236752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 446
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda570dc863ab2443a1048583f3e3bf5
+      internalID: 226980693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 444
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab1d4840105c6428843f11618c4972
+      internalID: -20385133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 446
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c2b2bf42bf25409aee9d2853efa78
+      internalID: -1498890905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_17
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 446
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ce15b4dd95bf4fb7846ab2eed8332
+      internalID: -649394160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 446
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba4233162e10a8488c6ba1b1acd53cb
+      internalID: 268591543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 270
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc6314cb3d1a5e4d966f282451eb2a8
+      internalID: 1771279581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 270
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c45f8d8342584b912097cb211519f
+      internalID: -707444285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 270
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3aae78236acce46ae476ee30cb6470
+      internalID: -1748851721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje quieto activo
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 519
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d7410755ed44f458b76848a9171f8b
+      internalID: 1317069890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 519
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdad7f32579d3d4eab5928ce36a378f
+      internalID: -1362569436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 519
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7704f0c59688c794896386c2b3b7e57d
+      internalID: -919384767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 437
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbeae5044a86f64ca1f365614d11c88
+      internalID: -1320427619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 437
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c0b3b803ebffe4a80df354ff148b25
+      internalID: -1155034363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Caminando 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e3d16d3fadcec40869293ab24872bb
+      internalID: 1190168503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Caminando 2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 356
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0602e7bcf457f647aa3d586faad8a92
+      internalID: -217832917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Caminando 3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 356
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10307e1762991947911b5c6e00f686f
+      internalID: -1449367882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Caminando 4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 357
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21480a3102cedc94ba204ef529e1fd03
+      internalID: 496246215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Caminando 5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 357
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c2bb88d78db4c40acbbcad84f24cee
+      internalID: -1574666829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Caminando 6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 357
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c8e598cc833e4faee7a6b6768ee41
+      internalID: 1867889028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Atacando 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 276
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05b3a2868e17843907cf06603c739b
+      internalID: 583840431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Atacando 2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 277
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53cd17f13217548a1e47733e087eda
+      internalID: 95835019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Atacando 3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 276
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4606ba10bc2e65439095c7bff3d6b93
+      internalID: -1550742625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Atacando 4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 276
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9efce65f717c0b47b06246ff03a67a5
+      internalID: 2145803428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522f00df9813e0d429ebee00617e61d0
+      internalID: 865298820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 210
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec34e2622b80cf4fa66a39c8a61b7ba
+      internalID: -1696165977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 210
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde812923051f73428fc1cd8806cce58
+      internalID: -1348502302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Quieto 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14957c2696af6c41915a9b8c75b8997
+      internalID: -1681031621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Quieto 2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ec973a563a3254e9999fbe38dd32c9
+      internalID: 167989149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Quieto 3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 119
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8854fd578f9d1439ee4b758e07a893
+      internalID: -664267135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 26
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd55ff905ee4842b098a408e9d5989
+      internalID: -259304356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6504a433b923b9a4fae282a439331fc3
+      internalID: 1931674309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 26
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0db6ce944adb48b005daaf3aaab48
+      internalID: -661640241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 26
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c786f5935fba13e41a8c386e6507eea4
+      internalID: -738311646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 26
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec73a9c6d088f742aedb2994a15ec67
+      internalID: 1513236770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 26
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd033a0bdc5a5643bc540c14ec84b32
+      internalID: 1117728253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 26
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e46e4eb671fe24182c22189d34f607
+      internalID: -1373433926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 26
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee9fdeb57eb074ebbe96fe90d0660e
+      internalID: 353355558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 26
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7242574fdcfd7994c9c688f1dfaf8b2a
+      internalID: 1353237191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje muerte 10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 26
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9dd5619cb55842b721cf9c6d27d86
+      internalID: -1159220658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Personaje muerte 6: 1117728253
+      Personaje muerte 10: -1159220658
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_11: 2034065055
+      Personaje Caminando 2: -217832917
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_31: -1155034363
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_23: -1748851721
+      Personaje Quieto 1: -1681031621
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_16: -1498890905
+      Personaje muerte 8: 353355558
+      Personaje muerte 5: 1513236770
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_7: -1954603366
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_12: -436961974
+      Personaje muerte 4: -738311646
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_20: 865298820
+      Personaje Quieto 3: -664267135
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_15: -20385133
+      Personaje Atacando 3: -1550742625
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_21: 1771279581
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_30: -919384767
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_1: -2060348554
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_41: -1348502302
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_29: -1362569436
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_22: -707444285
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_14: 226980693
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_18: 268591543
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_10: -1771154351
+      Personaje muerte 1: -259304356
+      Personaje muerte 7: -1373433926
+      Personaje Quieto 2: 167989149
+      Personaje Caminando 3: -1449367882
+      Personaje muerte 9: 1353237191
+      Personaje Atacando 1: 583840431
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_0: -1320427619
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_5: -1636785421
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_27: 99481960
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_8: 528348596
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_40: -1696165977
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_3: -387763488
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_6: 1427354605
+      Personaje Caminando 5: -1574666829
+      Personaje muerte 2: 1931674309
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_9: 918617037
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_4: 1102033835
+      Personaje Atacando 2: 95835019
+      Personaje Atacando 4: 2145803428
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_24: 588260475
+      Personaje Caminando 1: 1190168503
+      Personaje muerte 3: -661640241
+      Personaje quieto activo: 1317069890
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_13: 309236752
+      SNES - The Ninja Warriors Ninja Warriors Again - Knife Army_17: -649394160
+      Personaje Caminando 4: 496246215
+      Personaje Caminando 6: 1867889028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
